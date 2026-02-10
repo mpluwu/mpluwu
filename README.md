@@ -1,6 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=mpluwu&style=flat-square&color=blue" alt=""/>
 <br>
 <em>☢️ welcome to my github profile ☢️</em>
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpluwu&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **mpluwu/mpluwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
