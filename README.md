@@ -2,7 +2,9 @@
 <br>
 <em>☢️ welcome to my github profile ☢️</em>
 <br>
+<br>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mpluwu&theme=nightfox&hide_border=true" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpluwu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mpluwu/mpluwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
